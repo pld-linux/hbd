@@ -8,7 +8,7 @@ Group:		Development/Languages/Java
 Source0:	http://www.pdr.cx/dls/%{name}-%{version}.tar.gz
 # Source0-md5:	fa0a3f07844d4d304be95d24fc91c30d
 URL:		http://www.pdr.cx/projects/hbd/
-BuildRequires:	gcc-c++
+BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
