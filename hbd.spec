@@ -1,5 +1,5 @@
 Summary:	HomeBrew Java Decompiler
-Summary(pl):	HomeBrew Java Decompiler - dekompilator Javy
+Summary(pl.UTF-8):   HomeBrew Java Decompiler - dekompilator Javy
 Name:		hbd
 Epoch:		0
 Version:	0.2.3
@@ -19,11 +19,11 @@ Decompiler to the rescue! It's still far from perfect, but hopefully
 it will be able to provide enough for you to reconstruct your lost
 source file.
 
-%description -l pl
-Czy straci≥e∂ kiedy∂ kod ºrÛd≥owy programu w Javie i my∂la≥e∂, øe nie
-ma sposobu na odzyskanie go? Tak juø nie jest, HomeBrew przyjdzie z
-pomoc±! Jeszcze mu daleko do perfekcji, ale miejmy nadziejÍ, øe
-umoøliwi wystarczaj±co duøo, by odzyskaÊ utracony plik ºrÛd≥owy.
+%description -l pl.UTF-8
+Czy straci≈Çe≈õ kiedy≈õ kod ≈∫r√≥d≈Çowy programu w Javie i my≈õla≈Çe≈õ, ≈ºe nie
+ma sposobu na odzyskanie go? Tak ju≈º nie jest, HomeBrew przyjdzie z
+pomocƒÖ! Jeszcze mu daleko do perfekcji, ale miejmy nadziejƒô, ≈ºe
+umo≈ºliwi wystarczajƒÖco du≈ºo, by odzyskaƒá utracony plik ≈∫r√≥d≈Çowy.
 
 %prep
 %setup -q
