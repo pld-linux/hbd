@@ -1,5 +1,5 @@
 Summary:	HomeBrew Java Decompiler
-Summary(pl.UTF-8):   HomeBrew Java Decompiler - dekompilator Javy
+Summary(pl.UTF-8):	HomeBrew Java Decompiler - dekompilator Javy
 Name:		hbd
 Epoch:		0
 Version:	0.2.3
